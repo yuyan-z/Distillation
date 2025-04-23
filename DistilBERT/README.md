@@ -35,3 +35,6 @@ Cosine Embedding Loss $\mathcal{L}_{\text{cos}}$: alignment of hidden representa
 |------------|----------|----------|------------------|
 | Student    | 0.673    | 0.682    | 0.611            |
 | BERT       | 0.674    | 0.690    | 1                |
+
+## Example
+<img src="results/app.png" width="100%">
