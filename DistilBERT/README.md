@@ -14,9 +14,9 @@ KD Loss $\mathcal{L}_\text{KD}$: soft label distillation
 
 Cosine Embedding Loss $\mathcal{L}_{\text{cos}}$: alignment of hidden representations
 
-<img src="results/tensorboard1.png" width="300">
-<img src="results/tensorboard1.png" width="300">
-<img src="results/tensorboard2.png" width="300">
+<img src="results/tensorboard1.png" width="32%">
+<img src="results/tensorboard1.png" width="32%">
+<img src="results/tensorboard2.png" width="32%">
 
 ## Hyper Parameters
 | Hyperparameter    | Value                      |
