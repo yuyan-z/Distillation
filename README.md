@@ -1,1 +1,1 @@
-# DistillationBERT
+# Distillation
