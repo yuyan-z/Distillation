@@ -6,7 +6,7 @@
 - Initialize the layers of student model. Copy one out of two encoder layers, and all other layers from the teacher model.
 
 ## Loss Function
-$$\mathcal{L} = \alpha \mathcal{L}_\text{cls} + \beta \mathcal{L}_\text{cls} $$
+$$\mathcal{L} = \alpha \mathcal{L}_\text{cls} + \beta  $$
 
 Classification Loss $\mathcal{L}_\text{cls}$: hard label supervision
 
