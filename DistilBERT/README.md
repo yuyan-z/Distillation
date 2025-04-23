@@ -10,6 +10,7 @@ $$
 \mathcal{L} = \alpha \mathcal{L}_{\text{cls}} + \beta \mathcal{L}_{\text{cos}} + (1 - \alpha - \beta) \mathcal{L}_{\text{KD}}
 $$
 
+
 Classification Loss $\mathcal{L}_\text{cls}$: hard label supervision
 
 KD Loss $\mathcal{L}_\text{KD}$: soft label distillation
